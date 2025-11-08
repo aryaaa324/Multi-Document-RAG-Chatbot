@@ -1,5 +1,4 @@
 # Multi-Document-RAG-Chatbot
-# Multi-Document RAG Chatbot
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.38.0-FF4B4B.svg)](https://streamlit.io/)
