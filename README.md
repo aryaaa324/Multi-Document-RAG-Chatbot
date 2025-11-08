@@ -61,7 +61,7 @@ The system ensures that every answer is grounded in the actual documents, enabli
 
 ---
 
-# **3. Features (Fully Expanded)**
+# **3. Features**
 
 ## **3.1 Multi-Document Intelligence**
 
